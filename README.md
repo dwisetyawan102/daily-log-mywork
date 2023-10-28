@@ -1,8 +1,9 @@
 # daily-log-mywork
-23
-27/10
--Pengenalan linkungan kerja
--Memindahkan monitor dari franchise
-28/10
--Mencatat topologi jaringan di perusahaan
--Cek kondisi PC
+## 23 <br />
+### 10 <br />
+**27** <br />
+-Pengenalan linkungan kerja <br />
+-Memindahkan monitor dari franchise <br />
+**28** <br />
+-Mencatat topologi jaringan di perusahaan <br />
+-Cek kondisi PC <br />
