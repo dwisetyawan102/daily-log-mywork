@@ -7,3 +7,6 @@
 **28** <br />
 -Mencatat topologi jaringan di perusahaan <br />
 -Cek kondisi PC <br />
+**30** <br />
+-mempelajari cara sharing printer <br />
+-ganti vga pc tim kreatif <br />
