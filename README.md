@@ -13,7 +13,7 @@
 **31** <br />
 -reset Acess Point D-Link [DIR 612](https://www.youtube.com/watch?v=diqjpI4at-Q) dan TP-Link [TL WR840N](https://www.youtube.com/watch?v=AQDA5-KnuTg) <br />
 -maintenance wifi kantor <br />
-###11 <br />
+### 11 <br />
 **1** <br />
 -memperbaiki koneksi WiFi kantor <br />
 -belajar MikroTik [DHCP Client](https://citraweb.com/artikel_lihat.php?id=122) dan [DHCP Server](https://citraweb.com/artikel_lihat.php?id=122) <br />
