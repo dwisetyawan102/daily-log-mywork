@@ -17,4 +17,8 @@
 **1** <br />
 -memperbaiki koneksi WiFi kantor <br />
 -belajar MikroTik [DHCP Client](https://citraweb.com/artikel_lihat.php?id=122) dan [DHCP Server](https://citraweb.com/artikel_lihat.php?id=122) <br />
--beli komponen arduino
+-beli komponen arduino <br />
+**2** <br />
+-mempelajari [basic setup NodeMCU](https://www.youtube.com/watch?v=qOWnx9sRb9c) <br />
+-setup NodeMCU untuk absensi karyawan kantor <br />
+-memperbaiki koneksi WiFi kantor <br />
