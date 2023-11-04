@@ -22,3 +22,5 @@
 -mempelajari [basic setup NodeMCU](https://www.youtube.com/watch?v=qOWnx9sRb9c) <br />
 -setup NodeMCU untuk absensi karyawan kantor <br />
 -memperbaiki koneksi WiFi kantor <br />
+**3** <br />
+-konfigurasi limitasi bandwith internet kantor lantai satu menggunakan MikroTik <br />
