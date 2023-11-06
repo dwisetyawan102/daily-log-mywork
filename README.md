@@ -23,4 +23,6 @@
 -setup NodeMCU untuk absensi karyawan kantor <br />
 -memperbaiki koneksi WiFi kantor <br />
 **3** <br />
--konfigurasi limitasi bandwith internet kantor lantai satu menggunakan MikroTik <br />
+-konfigurasi [limitasi bandwith internet kantor lantai satu menggunakan MikroTik](https://citraweb.com/artikel_lihat.php?id=53) <br />
+**4** <br />
+-innul laptop <br />
