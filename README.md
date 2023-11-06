@@ -26,3 +26,5 @@
 -konfigurasi [limitasi bandwith internet kantor lantai satu menggunakan MikroTik](https://citraweb.com/artikel_lihat.php?id=53) <br />
 **4** <br />
 -innul laptop <br />
+**6** <br />
+-belajar [SNTP client](https://citraweb.com/artikel_lihat.php?id=55) dan [auto restart perangkat MikroTik](https://www.tutorialjaringan.com/2018/02/cara-setting-router-mikrotik-restart-otomatis-dengan-scheduler.html) <br />
