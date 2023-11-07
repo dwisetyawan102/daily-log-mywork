@@ -31,3 +31,4 @@
 **7** <br />
 -install CorelDRAW X7 laptop anak magang <br />
 -proteksi jaringan wifi MikroTik kantor [WPA PSK / WPA2 PSK](https://pelajarkesiangan.blogspot.com/2018/08/konfigurasi-security-wep-dan-wpa-psk.html) <br />
+-ganti sumber wifi absensi RFID kantor yang semula AP TP-Link menjadi wifi MikroTik <br />
