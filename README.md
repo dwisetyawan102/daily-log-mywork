@@ -28,3 +28,6 @@
 -innul laptop <br />
 **6** <br />
 -belajar [SNTP client](https://citraweb.com/artikel_lihat.php?id=55) dan [auto restart perangkat MikroTik](https://www.tutorialjaringan.com/2018/02/cara-setting-router-mikrotik-restart-otomatis-dengan-scheduler.html) <br />
+**7** <br />
+-install CorelDRAW X7 laptop anak magang <br />
+-proteksi jaringan wifi MikroTik kantor [WPA PSK / WPA2 PSK](https://pelajarkesiangan.blogspot.com/2018/08/konfigurasi-security-wep-dan-wpa-psk.html) <br />
