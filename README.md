@@ -32,3 +32,6 @@
 -install CorelDRAW X7 laptop anak magang <br />
 -proteksi jaringan wifi MikroTik kantor [WPA PSK / WPA2 PSK](https://pelajarkesiangan.blogspot.com/2018/08/konfigurasi-security-wep-dan-wpa-psk.html) <br />
 -ganti sumber wifi absensi RFID kantor yang semula AP TP-Link menjadi wifi MikroTik <br />
+**8** <br />
+-belajar [mematikan update windws](https://www.youtube.com/watch?v=hLlNWcY01Ws) menggunakan [Windows Update Blocker](https://www.sordum.org/9470/windows-update-blocker-v1-8/) <br />
+-belajar [mematikan windows defender](https://www.youtube.com/watch?v=qHL2ZPBe_2Q) menggunakan [Defender Controll](https://www.sordum.org/9480/defender-control-v2-1/) <br />
