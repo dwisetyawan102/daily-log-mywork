@@ -36,5 +36,8 @@
 -belajar [mematikan update windws](https://www.youtube.com/watch?v=hLlNWcY01Ws) menggunakan [Windows Update Blocker](https://www.sordum.org/9470/windows-update-blocker-v1-8/) <br />
 -belajar [mematikan windows defender](https://www.youtube.com/watch?v=qHL2ZPBe_2Q) menggunakan [Defender Controll](https://www.sordum.org/9480/defender-control-v2-1/) <br />
 **9** <br />
--mematikan windows update laptop karyawan kantor <br />
+-mematikan windows update laptop karyawan kantor <br /> 
 -mempelajari Hiren's Boot <br />
+**10** <br />
+-optimasi laptop operasional <br />
+-mengatasi printer error <br />
