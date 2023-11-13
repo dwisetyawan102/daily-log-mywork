@@ -41,3 +41,7 @@
 **10** <br />
 -optimasi laptop operasional <br />
 -mengatasi printer error <br />
+**11** <br />
+-registrasi pemasangan internet ISP Indihome untuk kantor <br />
+**13** <br />
+-pemasangan internet ISP Indihome untuk kantor bersama teknisi, dan cek koneksi internet <br />
