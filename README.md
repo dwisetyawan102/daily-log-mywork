@@ -45,3 +45,5 @@
 -registrasi pemasangan internet ISP Indihome untuk kantor <br />
 **13** <br />
 -pemasangan internet ISP Indihome untuk kantor bersama teknisi, dan cek koneksi internet <br />
+**15** <br />
+-menangani laptop kantor yang tidak bisa konek wifi kantor <br />
