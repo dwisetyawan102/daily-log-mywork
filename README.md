@@ -59,3 +59,4 @@
 -mengoptimalkan penyimpanan komputer kantor <br />
 -installasi printer <br />
 -sharing printer <br />
+-menangani laptop black screen dan mematikan update windows milik anak magang <br />
