@@ -47,3 +47,11 @@
 -pemasangan internet ISP Indihome untuk kantor bersama teknisi, dan cek koneksi internet <br />
 **15** <br />
 -menangani laptop kantor yang tidak bisa konek wifi kantor <br />
+**16** <br />
+-konfigurasi Access Point Ubiquity Unify AP UAC Pro <br />
+**17** <br />
+-membuat tampilan halaman project kuis <br />
+**18** <br />
+-membuat tampilan halaman project kuis <br />
+**20** <br />
+-ganti cardridge printer kantor <br />
