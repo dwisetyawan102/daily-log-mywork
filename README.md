@@ -55,3 +55,7 @@
 -membuat tampilan halaman project kuis <br />
 **20** <br />
 -ganti cardridge printer kantor <br />
+**21** <br />
+-mengoptimalkan penyimpanan komputer kantor <br />
+-installasi printer <br />
+-sharing printer <br />
