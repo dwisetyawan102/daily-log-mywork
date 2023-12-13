@@ -60,3 +60,6 @@
 -installasi printer <br />
 -sharing printer <br />
 -menangani laptop black screen dan mematikan update windows milik anak magang <br />
+### 12 <br />
+**12**
+-konfigurasi bandwith unify lantai 2 <br />
